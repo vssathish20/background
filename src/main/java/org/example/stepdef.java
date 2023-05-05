@@ -42,11 +42,13 @@ public class stepdef {
     @When("red colour looks elegant so i have to buy red color")
     public void red_colour_looks_elegant_so_i_have_to_buy_red_color() {
         System.out.println("red colour looks elegant so i have to buy red color");
+        System.out.println("ahaan");
 
     }
     @Then("show me new model")
     public void show_me_new_model() {
         System.out.println("show me new model of wp");
+        System.out.println("hehhe");
 
     }
 
